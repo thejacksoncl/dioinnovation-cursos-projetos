@@ -1,0 +1,1 @@
+criar, modificar, empurar, clonar um diretorio no github e pc local.

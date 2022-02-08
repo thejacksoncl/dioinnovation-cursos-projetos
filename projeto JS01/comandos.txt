@@ -1,0 +1,7 @@
+empurrar:  git push origin main
+
+puxar:  git pull origin main
+
+adiconar comitar: git add *
+
+                  git commit -m ""
